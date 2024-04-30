@@ -1,0 +1,1012 @@
+INFO - 2024-04-29 07:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 07:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 07:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 07:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 07:59:36 --> CodeIgniter\Database\Exceptions\DataException: Não há dados para insert.
+[Method: POST, Route: categorias/adicionar]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\Adm\Categoria.php(25): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Categoria->adicionar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Categoria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 07:59:46 --> CodeIgniter\Database\Exceptions\DataException: Não há dados para insert.
+[Method: POST, Route: categorias/adicionar]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\Adm\Categoria.php(25): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Categoria->adicionar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Categoria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 08:00:47 --> CodeIgniter\Database\Exceptions\DataException: Não há dados para insert.
+[Method: POST, Route: categorias/adicionar]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\Adm\Categoria.php(25): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Categoria->adicionar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Categoria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 08:00:50 --> CodeIgniter\Database\Exceptions\DataException: Não há dados para insert.
+[Method: POST, Route: categorias/adicionar]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\Adm\Categoria.php(25): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Categoria->adicionar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Categoria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 08:01:27 --> CodeIgniter\Database\Exceptions\DataException: Não há dados para insert.
+[Method: POST, Route: categorias/adicionar]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], false)
+ 3 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 4 APPPATH\Controllers\Adm\Categoria.php(25): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Categoria->adicionar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Categoria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 08:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 08:29:05 --> CodeIgniter\Database\Exceptions\DataException: Os campos permitidos devem ser especificados para o model: App\Models\ProdutoModel
+[Method: POST, Route: produtos/adicionar]
+in SYSTEMPATH\Model.php on line 813.
+ 1 SYSTEMPATH\Model.php(813): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ProdutoModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\Adm\Produto.php(35): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Produto->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Produto))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 08:30:45 --> CodeIgniter\Database\Exceptions\DataException: Os campos permitidos devem ser especificados para o model: App\Models\ProdutoModel
+[Method: POST, Route: produtos/adicionar]
+in SYSTEMPATH\Model.php on line 813.
+ 1 SYSTEMPATH\Model.php(813): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ProdutoModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 4 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 5 APPPATH\Controllers\Adm\Produto.php(35): CodeIgniter\BaseModel->save([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Produto->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Produto))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 08:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:49:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 08:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-29 09:03:47 --> mysqli_sql_exception: Unknown column 'inventario.CODESTOQUE' in 'field list' in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventa...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventa...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventa...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventa...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\projeto3_igniter\app\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Inventario.php(13): App\Models\InventarioModel->getInventario()
+#8 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-04-29 09:03:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'inventario.CODESTOQUE' in 'field list'
+[Method: GET, Route: inventario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Adm\Inventario.php(13): App\Models\InventarioModel->getInventario()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:03:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'inventario.CODESTOQUE' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Adm\Inventario.php(13): App\Models\InventarioModel->getInventario()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:03:47 --> [Caused by] mysqli_sql_exception: Unknown column 'inventario.CODESTOQUE' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Adm\Inventario.php(13): App\Models\InventarioModel->getInventario()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-04-29 09:07:11 --> mysqli_sql_exception: Unknown column 'inventario.CODESTOQUE' in 'field list' in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventa...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventa...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventa...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventa...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\projeto3_igniter\app\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+#8 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-04-29 09:07:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'inventario.CODESTOQUE' in 'field list'
+[Method: GET, Route: inventario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'inventario.CODESTOQUE' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:11 --> [Caused by] mysqli_sql_exception: Unknown column 'inventario.CODESTOQUE' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODESTOQUE`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-04-29 09:07:44 --> mysqli_sql_exception: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause' in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventa...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventa...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventa...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventa...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\projeto3_igniter\app\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+#8 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-04-29 09:07:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+[Method: GET, Route: inventario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:44 --> [Caused by] mysqli_sql_exception: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-04-29 09:07:45 --> mysqli_sql_exception: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause' in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventa...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventa...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventa...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventa...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\projeto3_igniter\app\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+#8 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-04-29 09:07:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+[Method: GET, Route: inventario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:07:45 --> [Caused by] mysqli_sql_exception: Unknown column 'ESTOQUE.CODPRODUTO' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `inventario`.`CODPRODUTO`, `inventario`.`QUANTIDADE`, `inventario`.`CODINVENTARIO`, `unidade`.`TIPO`, `produto`.`NOME`
+FROM `inventario`
+JOIN `produto` ON `produto`.`CODPRODUTO` = `ESTOQUE`.`CODPRODUTO`
+JOIN `unidade` ON `unidade`.`CODUNIDADE` = `produto`.`CODUNIDADE`', [], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\InventarioModel.php(20): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Adm\Inventario.php(15): App\Models\InventarioModel->getInventario()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 09:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:22:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 09:31:56 --> ErrorException: Undefined array key "CODESTOQUE"
+[Method: GET, Route: inventario/salvar]
+in APPPATH\Controllers\Adm\Inventario.php on line 71.
+ 1 APPPATH\Controllers\Adm\Inventario.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CODESTOQUE"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Controllers\\Adm\\Inventario.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->salvar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:33:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: inventario/salvar]
+in SYSTEMPATH\Database\BaseBuilder.php on line 2794.
+ 1 SYSTEMPATH\Model.php(510): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1158): CodeIgniter\Model->doDelete(null, false)
+ 3 APPPATH\Controllers\Adm\Inventario.php(83): CodeIgniter\BaseModel->delete()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->salvar()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:34:05 --> TypeError: CodeIgniter\Database\BaseBuilder::getOperatorFromWhereKey(): Argument #1 ($whereKey) must be of type string, int given, called in C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php on line 760
+[Method: GET, Route: inventario/salvar]
+in SYSTEMPATH\Database\BaseBuilder.php on line 3453.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(760): CodeIgniter\Database\BaseBuilder->getOperatorFromWhereKey(1)
+ 2 SYSTEMPATH\Database\BaseBuilder.php(701): CodeIgniter\Database\BaseBuilder->whereHaving('QBWhere', '1', '1', 'AND ', true)
+ 3 SYSTEMPATH\Model.php(919): CodeIgniter\Database\BaseBuilder->where('1', '1')
+ 4 APPPATH\Controllers\Adm\Inventario.php(83): CodeIgniter\Model->__call('where', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->salvar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 09:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 09:38:53 --> ErrorException: Undefined array key "CODPRODUTO"
+[Method: GET, Route: inventario/salvar]
+in APPPATH\Controllers\Adm\Inventario.php on line 71.
+ 1 APPPATH\Controllers\Adm\Inventario.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CODPRODUTO"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Controllers\\Adm\\Inventario.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Inventario->salvar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Inventario))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 09:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 09:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 10:34:42 --> CodeIgniter\View\Exceptions\ViewException: Arquivo inválido: /pages/itemsaida.php
+[Method: GET, Route: saida/visualizar/18]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/pages/itemsaida.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/itemsaida', [], true)
+ 3 APPPATH\Controllers\Adm\Saida.php(62): view('/pages/itemsaida')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->visualiza('18')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:35:32 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given
+[Method: GET, Route: saida/visualizar/18]
+in APPPATH\Views\pages\itemsaida.php on line 12.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/itemsaida', [], true)
+ 4 APPPATH\Controllers\Adm\Saida.php(62): view('/pages/itemsaida')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->visualiza('18')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:35:32 --> [Caused by] ErrorException: Undefined variable $saida
+in APPPATH\Views\pages\itemsaida.php on line 12.
+ 1 APPPATH\Views\pages\itemsaida.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saida', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\itemsaida.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\itemsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/itemsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(62): view('/pages/itemsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->visualiza('18')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:35:49 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: saida/visualizar/18]
+in APPPATH\Views\pages\itemsaida.php on line 27.
+ 1 APPPATH\Views\pages\itemsaida.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\itemsaida.php', 27)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\itemsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/itemsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(62): view('/pages/itemsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->visualiza('18')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:43:59 --> Error: Class "Dompdf\Dompdf" not found
+[Method: GET, Route: saida/pdf/18]
+in APPPATH\Controllers\Adm\Saida.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->geraPdf('18')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:50:09 --> ParseError: Unmatched '}'
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 31.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 3 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:04 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:05 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:06 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:06 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:07 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:51:07 --> ErrorException: Undefined variable $saiad
+[Method: GET, Route: saida/gerar]
+in APPPATH\Views\pages\gerarsaida.php on line 21.
+ 1 APPPATH\Views\pages\gerarsaida.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $saiad', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\projeto3_igniter\\app\\Views\\pages\\gerarsaida.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/pages/gerarsaida', [], true)
+ 5 APPPATH\Controllers\Adm\Saida.php(37): view('/pages/gerarsaida')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->gerar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 11:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 11:19:37 --> ErrorException: Undefined array key "CODPRODUTO"
+[Method: POST, Route: saida/adicionar]
+in APPPATH\Controllers\Adm\Saida.php on line 159.
+ 1 APPPATH\Controllers\Adm\Saida.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CODPRODUTO"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Controllers\\Adm\\Saida.php', 159)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->adicionar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 11:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 11:28:30 --> ErrorException: Undefined array key "CODSETOR"
+[Method: POST, Route: saida/adicionar]
+in APPPATH\Controllers\Adm\Saida.php on line 155.
+ 1 APPPATH\Controllers\Adm\Saida.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CODSETOR"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Controllers\\Adm\\Saida.php', 155)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->adicionar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 11:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 11:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-29 12:07:40 --> ErrorException: Undefined array key "CODPRODUTO"
+[Method: POST, Route: saida/editar]
+in APPPATH\Controllers\Adm\Saida.php on line 196.
+ 1 APPPATH\Controllers\Adm\Saida.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CODPRODUTO"', 'C:\\xampp\\htdocs\\projeto3_igniter\\app\\Controllers\\Adm\\Saida.php', 196)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->editar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 12:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-29 12:38:10 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`)) in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `it...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `it...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `it...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `it...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\projeto3_igniter\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Saida.php(242): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+#11 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-04-29 12:38:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+[Method: GET, Route: saida/salvar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Adm\Saida.php(242): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:38:10 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (20)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (20)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Adm\Saida.php(242): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:38:10 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (20)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (20)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (20)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Adm\Saida.php(242): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-04-29 12:39:56 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`)) in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `it...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `it...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `it...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `it...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\projeto3_igniter\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(751): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Saida.php(244): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+#11 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-04-29 12:39:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+[Method: GET, Route: saida/salvar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Adm\Saida.php(244): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:39:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (22)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (22)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Adm\Saida.php(244): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:39:56 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`estoque`.`item_saida`, CONSTRAINT `FK_SETORSAIDA` FOREIGN KEY (`CODSETOR`) REFERENCES `setor` (`CODSETOR`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (22)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (22)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (22)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `item_saida` (`CODSAIDA`) VALUES (:CODSAIDA:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(751): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Adm\Saida.php(244): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->salvar()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 12:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-29 12:50:20 --> mysqli_sql_exception: Incorrect DATETIME value: '2024-04-2900:00:00' in C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\projeto3_igniter\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\projeto3_igniter\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\projeto3_igniter\system\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\projeto3_igniter\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\projeto3_igniter\app\Models\SaidaModel.php(16): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\projeto3_igniter\app\Controllers\Adm\Saida.php(58): App\Models\SaidaModel->getSaida('2024-04-2900:00...', '2024-04-2923:59...')
+#8 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(933): App\Controllers\Adm\Saida->buscar()
+#9 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+#10 C:\xampp\htdocs\projeto3_igniter\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\projeto3_igniter\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\projeto3_igniter\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-04-29 12:50:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Incorrect DATETIME value: '2024-04-2900:00:00'
+[Method: POST, Route: saida/buscar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `saida`
+WHERE `DATA` >= :DATA:
+AND `DATA` <= :DATA.1:', [...], false)
+ 2 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\SaidaModel.php(16): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Adm\Saida.php(58): App\Models\SaidaModel->getSaida('2024-04-2900:00:00', '2024-04-2923:59:59')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->buscar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:50:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Incorrect DATETIME value: '2024-04-2900:00:00'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `saida`
+WHERE `DATA` >= \'2024-04-2900:00:00\'
+AND `DATA` <= \'2024-04-2923:59:59\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `saida`
+WHERE `DATA` >= \'2024-04-2900:00:00\'
+AND `DATA` <= \'2024-04-2923:59:59\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `saida`
+WHERE `DATA` >= :DATA:
+AND `DATA` <= :DATA.1:', [...], false)
+ 4 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\SaidaModel.php(16): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Adm\Saida.php(58): App\Models\SaidaModel->getSaida('2024-04-2900:00:00', '2024-04-2923:59:59')
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->buscar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 12:50:20 --> [Caused by] mysqli_sql_exception: Incorrect DATETIME value: '2024-04-2900:00:00'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT *
+FROM `saida`
+WHERE `DATA` >= \'2024-04-2900:00:00\'
+AND `DATA` <= \'2024-04-2923:59:59\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `saida`
+WHERE `DATA` >= \'2024-04-2900:00:00\'
+AND `DATA` <= \'2024-04-2923:59:59\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `saida`
+WHERE `DATA` >= \'2024-04-2900:00:00\'
+AND `DATA` <= \'2024-04-2923:59:59\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `saida`
+WHERE `DATA` >= :DATA:
+AND `DATA` <= :DATA.1:', [...], false)
+ 5 SYSTEMPATH\Model.php(275): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\SaidaModel.php(16): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Adm\Saida.php(58): App\Models\SaidaModel->getSaida('2024-04-2900:00:00', '2024-04-2923:59:59')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Adm\Saida->buscar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Adm\Saida))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-04-29 12:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-29 12:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
