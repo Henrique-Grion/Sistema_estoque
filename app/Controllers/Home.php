@@ -7,7 +7,7 @@ class Home extends BaseController
     public function index()
     {
         $data = [
-            'titulo' => 'CE Controle de Estoque'
+            'titulo' => 'CE Controle de Estoque 1'
         ];
         echo view('/templates/header-html', $data);
         echo view('/templates/header');
